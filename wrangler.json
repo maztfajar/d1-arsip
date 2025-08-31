@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-arsip",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "0668ff2a-3fae-4051-a576-9ea090ad21c5",
+      "database_name": "arsip"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
